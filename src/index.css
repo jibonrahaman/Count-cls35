@@ -1,0 +1,36 @@
+.Hello {
+
+	margin-left: 49%;
+
+	margin-top: 5%;
+}
+#root{
+    background: purple;
+}
+.p{
+    margin-left: -28px;
+}
+.count{
+    margin-left: 84px;
+    color: white;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.h1{
+    margin-left: 20px;
+}
+    button {
+        background: black;
+        color: white;
+        padding: 11px 15px;
+        font-size: 40px;
+        border-radius: 10px;
+        border: none;
+        margin: 10px;
+        transition: all linear 0.5s;
+    }
+    button:hover{
+        background: white;
+        color: black;
+        border: 1px solid black;
+    }
